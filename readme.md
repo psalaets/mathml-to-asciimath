@@ -11,14 +11,14 @@ var mathml = '<math><mn>1</mn><mo>+</mo><mn>2</mn></math>';
 convert(mathml); // => '1 + 2'
 ```
 
-## Running Tests
-
-    npm test
-
 ## This module is not
 
 - comprehensive
 - performant
+
+## Long term goal
+
+Be the inverse of [ForbesLindesay/ascii-math](https://github.com/ForbesLindesay/ascii-math)
 
 ## License
 
